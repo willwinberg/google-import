@@ -1,0 +1,19 @@
+{
+  "name": "google-import",
+  "version": "1.0.0",
+  "description": "to import google docs to mongo",
+  "main": "google-sheet-import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willwinberg/google-import.git"
+  },
+  "author": "wwinberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willwinberg/google-import/issues"
+  },
+  "homepage": "https://github.com/willwinberg/google-import#readme"
+}
